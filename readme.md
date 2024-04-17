@@ -1,4 +1,3 @@
-Certainly! Below is a structured README file for a web application using the mentioned technologies:
 
 ---
 
