@@ -104,7 +104,8 @@ Explain the use of Redux or Vuex for state management in frontend applications, 
 ## Contributors
 
 List the contributors to the project.
--kshitij akarsh[@kshitijakarsh]
--anubhav singh[@AnubhavSingh99]
--revant khanna[@revant7]
--anuj kumar[@anuj846k]
+
+- [kshitij akarsh](https://github.com/kshitijakarsh)
+- [anubhav singh](https://github.com/AnubhavSingh99)
+- [revant khanna](https://github.com/revant7)
+- [anuj kumar](https://github.com/anuj846k)
